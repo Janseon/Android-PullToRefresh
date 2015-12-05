@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\Android-PullToRefresh\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_top.xml",
+        "source": "D:\\android\\AndroidStudioProjects\\Android-PullToRefresh\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\Android-PullToRefresh\\library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\Android-PullToRefresh\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bg_bottom.xml",
+        "source": "D:\\android\\AndroidStudioProjects\\Android-PullToRefresh\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\Android-PullToRefresh\\library\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]

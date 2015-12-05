@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\AndroidStudioProjects\Android-PullToRefresh\sample\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a98d75f4344fa16585489058808a3452e04df99">
+        <dex dex="D:\android\AndroidStudioProjects\Android-PullToRefresh\sample\build\intermediates\pre-dexed\debug\instant-run_3bef2cf6b56aaf0a48a09876521b6e786bf4785a.jar" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioProjects\Android-PullToRefresh\sample\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="66857b8c4fb0b29408c3f39943f2fcb81504a834">
+        <dex dex="D:\android\AndroidStudioProjects\Android-PullToRefresh\sample\build\intermediates\pre-dexed\debug\classes_2895b87ee7f2e548029c5c5d0812a5da7b0b6757.jar" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioProjects\Android-PullToRefresh\sample\build\intermediates\exploded-aar\Android-PullToRefresh\pullToRefreshListFragment\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a752bd152fa55acddff34d54427200bbaafd1b51">
+        <dex dex="D:\android\AndroidStudioProjects\Android-PullToRefresh\sample\build\intermediates\pre-dexed\debug\Android-PullToRefresh-pullToRefreshListFragment-unspecified_727dc698a40b4d04416a2cbcdb91ccd801e9dd77.jar" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioProjects\Android-PullToRefresh\sample\build\intermediates\exploded-aar\Android-PullToRefresh\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2b7bdbbc619d1eba43ead7af90f2ba3c67fa444f">
+        <dex dex="D:\android\AndroidStudioProjects\Android-PullToRefresh\sample\build\intermediates\pre-dexed\debug\Android-PullToRefresh-library-unspecified_7621b5e739161ea848bb140820eb9a85bbc62a68.jar" />
+    </item>
+    <item
+        jar="D:\android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\android\AndroidStudioProjects\Android-PullToRefresh\sample\build\intermediates\pre-dexed\debug\support-v4-18.0.0_ccf1976f2ed10671c81cbe19f136351b0d5865ab.jar" />
+    </item>
+    <item
+        jar="D:\android\AndroidStudioProjects\Android-PullToRefresh\sample\build\intermediates\exploded-aar\Android-PullToRefresh\pullToRefreshViewPager\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="35d9f1345d408ecf9de10486a9fd23d360ac8fc8">
+        <dex dex="D:\android\AndroidStudioProjects\Android-PullToRefresh\sample\build\intermediates\pre-dexed\debug\Android-PullToRefresh-pullToRefreshViewPager-unspecified_e30489e6709ff8dce409c5d3f7af4397564c17ab.jar" />
+    </item>
+
+</items>
